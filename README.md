@@ -1,6 +1,4 @@
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sertactoroz&theme=github_dark&layout=compact))](https://github.com/sertactoroz/github-readme-stats)
-
 # Hi there, I'm Mustafa Sertaç Toröz! 👋
 
 Welcome to my GitHub profile! I'm a passionate Frontend Developer and Flutter Developer with experience in building dynamic and responsive web applications. I love exploring new technologies and working on exciting projects.
@@ -30,14 +28,3 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer and Flutter De
 
 ---
 
-## 🔍 My Work
-
-### 🚀 Featured Projects
-
-- [**Project Name**](https://github.com/sertactoroz/project-name) - A brief description of your project.
-- [**Another Project**](https://github.com/sertactoroz/another-project) - A brief description of your project.
-
-### 📌 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sertactoroz&repo=project-name&theme=github_dark)](https://github.com/sertactoroz/project-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sertactoroz&repo=another
