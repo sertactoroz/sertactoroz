@@ -1,7 +1,7 @@
 
 # Hi there, I'm Mustafa Sertaç Toröz! 👋
 
-Welcome to my GitHub profile! I'm a passionate Frontend Developer and Flutter Developer with experience in building dynamic and responsive web applications. I love exploring new technologies and working on exciting projects.
+I'm a driven Frontend Developer with a knack for crafting dynamic and responsive web applications. With solid mobile development experience, I enjoy bringing ideas to life across different platforms. Exploring new technologies and diving into innovative projects keeps me motivated and eager to push the boundaries of what's possible.
 
 ---
 
