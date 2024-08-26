@@ -21,10 +21,4 @@ I'm a driven Frontend Developer with a knack for crafting dynamic and responsive
 
 ---
 
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sertactoroz&theme=github_dark&layout=compact)](https://github.com/sertactoroz/github-readme-stats)
-
-
----
 
